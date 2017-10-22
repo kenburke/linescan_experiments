@@ -27,8 +27,6 @@ Finally, the boutons are grouped into `experiment` objects that indicate all bou
 ├── lineScan.m
 ├── bouton.m
 └── experiment.m
-    ├── test_cluster.py
-    └── test_io.py
 ```
 
 ## usage
@@ -94,6 +92,8 @@ exper.boutons{1}.plotPeakAmps_all
 
 
 ## testing
+
+Continuous integration testing is currently under development.
 
 ## contributors
 
