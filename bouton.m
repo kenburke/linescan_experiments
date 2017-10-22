@@ -381,7 +381,7 @@ classdef bouton < handle
             %If you just want the mean amplitude per linescan set, see
             %"this.plotPeakAmps_sets" above
             
-            if nargin<1
+            if nargin<2
                 dgr = 0;
             end
             
