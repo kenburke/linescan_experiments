@@ -20,15 +20,15 @@ Finally, the boutons are grouped into `experiment` objects that indicate all bou
 
 ```
 .
-??? README.md
-??? data
-?   ??? ***linescan data folders here***
-??? broadcastState.m
-??? lineScan.m
-??? bouton.m
-??? experiment.m
-    ??? test_cluster.py
-    ??? test_io.py
+├── README.md
+├── data
+│   └── ***linescan data folders here***
+├── broadcastState.m
+├── lineScan.m
+├── bouton.m
+└── experiment.m
+    ├── test_cluster.py
+    └── test_io.py
 ```
 
 ## usage
